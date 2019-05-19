@@ -5,8 +5,6 @@ height="120" width="120">
 
 Belo Horizonte-MG | 19 Anos
 
-GitHub --> https://github.com/KaioAlex2018
-Linkedin --> https://www.linkedin.com/in/caio-campos-739208170/
 
 # Apresentação
 
