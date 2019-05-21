@@ -35,8 +35,8 @@ height="120" width="120">
 
 # Formação
 
-- 2017 - Ensino Médio: Escola Estadual São Sebastião
-- 2019 - Ensino Superior: Graduando em Ciência da Computação - UFMG
+- #### 2017 - Ensino Médio: Escola Estadual São Sebastião
+- #### 2019 - Ensino Superior: Graduando em Ciência da Computação - UFMG
 #
 
 Tem alguma dúvida sobre meu currículo?
