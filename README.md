@@ -7,9 +7,8 @@ height="120" width="120">
 
 
 
-
+- #### Email --> caioalex2018@ufmg.br
 - #### GitHub --> https://github.com/KaioAlex2018
-
 - #### Linkedin --> https://www.linkedin.com/in/caio-campos-739208170/
 
 # Apresentação
@@ -20,21 +19,23 @@ height="120" width="120">
 
 - #### Lógica de Programação
 
+- #### Boas Noções OO
+
 - #### C/C++
 
 - #### Python
 
-- #### Conhecimento básico em Linux
+- #### Conhecimentos Básicos Linux
 
-- #### Sistemas de Controle de Versão(Git)
+- #### Sistemas de Controle de Versão (Git)
 
 - #### Inglês Intermediário (Leitura e Entendimento)
 #
 
 # Formação
 
-- Ensino Médio: Escola Estadual São Sebastião
-- Ensino Superior: Graduando em Ciência da Computação - UFMG
+- 2017 - Ensino Médio: Escola Estadual São Sebastião
+- 2019 - Ensino Superior: Graduando em Ciência da Computação - UFMG
 #
 
 Tem alguma dúvida sobre meu currículo?
