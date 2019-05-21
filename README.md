@@ -24,6 +24,7 @@ height="120" width="120">
 - #### C/C++
 
 - #### Python
+  - ##### [Biblioteca Numpy](https://github.com/KaioAlex2018/MyClasses/tree/master/2019_1%20-%20%C3%81LGEBRA%20LINEAR%20COMPUTACIONAL%20-%20TZ1)
 
 - #### Conhecimentos Básicos Linux
 
