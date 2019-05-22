@@ -41,4 +41,4 @@ height="120" width="120">
 
 Tem alguma dúvida sobre meu currículo?
 
-Mande-me uma mensagem e me ajude a melhorá-lo.
+[Mande-me](https://github.com/KaioAlex2018/curriculo/issues) uma mensagem e me ajude a melhorá-lo.
