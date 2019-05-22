@@ -3,16 +3,16 @@
 <img src="https://i.ibb.co/cTVrrLY/IMG-20180905-185013.jpg"
 height="120" width="120">
 
-#### Belo Horizonte-MG | 19 Anos
+ Belo Horizonte-MG | 19 Anos
 
 
 
-- #### Email --> caioalex2018@ufmg.br
-- #### GitHub --> https://github.com/KaioAlex2018
-- #### Linkedin --> https://www.linkedin.com/in/caio-campos-739208170/
+- Email --> caioalex2018@ufmg.br
+- GitHub --> https://github.com/KaioAlex2018
+- Linkedin --> https://www.linkedin.com/in/caio-campos-739208170/
 
 # Apresentação
-* Olá, atualmente sou estudante na área de Ciência da Computação na UFMG e gosto muito de assuntos relacionados a Internet. Me interesso muito também por novidades que surgem nesse ramo da Tecnologia da Informação. Estou em busca de oportunidades que possam me desafiar e fazer com que eu cresça, tanto profissionalmente, como em realização pessoal.
+* Olá, atualmente sou estudante na área de Ciência da Computação na UFMG e gosto muito de assuntos relacionados a Internet. Me interesso muito também por novidades que surgem nesse ramo de Tecnologia da Informação. Estou em busca de oportunidades que possam me desafiar e fazer com que eu cresça, tanto profissionalmente, como em realização pessoal.
 
 #
 # Conhecimentos
