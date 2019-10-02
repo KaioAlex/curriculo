@@ -22,10 +22,10 @@ height="120" width="120">
 - #### Boas Noções OOP
 
 - #### C/C++
-  - [Programação e Desenvolvimento de Software 2](https://github.com/KaioAlex2018/MyClasses/tree/master/2019_1%20-%20PROGRAMA%C3%87%C3%83O%20E%20DESENVOLVIMENTO%20DE%20SOFTWARE%20II%20-%20TN)
+  - [Programação e Desenvolvimento de Software 2](https://github.com/KaioAlex2018/MyClasses/tree/master/2º-Semestre/2019_1-PROGRAMAÇÃO_E_DESENVOLVIMENTO_DE_SOFTWAREI%20-TN)
 
 - #### Python
-  - [Biblioteca Numpy](https://github.com/KaioAlex2018/MyClasses/tree/master/2019_1%20-%20%C3%81LGEBRA%20LINEAR%20COMPUTACIONAL%20-%20TZ1)
+  - [Biblioteca Numpy](https://github.com/KaioAlex2018/MyClasses/tree/master/2º-Semestre/2019_1-ÁLGEBRA_LINEAR_COMPUTACIONAL-TZ1)
 
 - #### Conhecimentos Básicos Linux
 
