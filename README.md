@@ -3,16 +3,16 @@
 <img src="https://i.ibb.co/cTVrrLY/IMG-20180905-185013.jpg"
 height="120" width="120">
 
- Belo Horizonte - MG | 20 anos
+ Belo Horizonte - MG | 22 anos
 
 
 
-- Email --> caio.campos@dcc.ufmg.br
-- GitHub --> https://github.com/KaioAlex2018
+- Email --> caio.campos.dcc@pm.me
+- GitHub --> https://github.com/kaioalex
 - Linkedin --> https://www.linkedin.com/in/caio-campos-739208170/
 
 # Apresentação
-* Olá, atualmente, sou estudante na área de Ciência da Computação na Universidade Federal de Minas Gerais (UFMG) e sou muito fã de assuntos relacionados à Internet e Tecnologia. Hoje, trabalho como estagiário na Gerência de Segurança Cibernética e da Informação no Banco Mercantil do Brasil. Possuo interesse no ramo de Tecnologia da Informação e por novidades/técnicas que surgem nesse ramo. 
+* Olá, atualmente, sou estudante na área de Ciência da Computação na Universidade Federal de Minas Gerais (UFMG) e sou muito fã de assuntos relacionados à Internet e Tecnologia. Hoje, trabalho como estagiário na Gerência de Segurança Cibernética e da Informação no Banco Mercantil do Brasil. Possuo interesse no ramo de Tecnologia da Informação e por novidades que surgem nesse ramo. 
 
 * Sou fascinado e curioso em descobrir como as coisas realmente funcionam por trás dos panos. Por exemplo, como dispositivos e softwares são feitos e conectam-se uns com os outros, como podemos descobrir falhas e vulnerabilidades em seus sistemas e, como através destes, podemos deixá-los mais seguro contra ataques de indivíduos maliciosos.
 
