@@ -12,9 +12,9 @@ height="120" width="120">
 - Linkedin --> https://www.linkedin.com/in/caio-campos-739208170/
 
 # Apresentação
-* Olá, atualmente, sou estudante na área de Ciência da Computação na Universidade Federal de Minas Gerais (UFMG) e sou muito fã de assuntos relacionados à Internet e Tecnologia. Hoje, trabalho como estagiário na Gerência de Segurança Cibernética e da Informação no Banco Mercantil do Brasil. Possuo interesse no ramo de Tecnologia da Informação e por novidades que surgem nesse ramo. 
+* Olá, atualmente, sou estudante na área de Ciência da Computação na Universidade Federal de Minas Gerais (UFMG) e sou muito fã de assuntos relacionados à Internet e Tecnologia. Hoje, trabalho como estagiário na Gerência de Segurança Cibernética e da Informação no Banco Mercantil do Brasil. Possuo interesse no área de Tecnologia da Informação e por novidades que surgem nesse ramo. 
 
-* Sou fascinado e curioso em descobrir como as coisas realmente funcionam por trás dos panos. Por exemplo, como dispositivos e softwares são feitos e conectam-se uns com os outros, como podemos descobrir falhas e vulnerabilidades em seus sistemas e, como através destes, podemos deixá-los mais seguro contra ataques de indivíduos maliciosos.
+* Sou fascinado e curioso em descobrir como as coisas realmente funcionam por trás dos panos. Por exemplo, como dispositivos e softwares são criados e conectam-se uns com os outros, como podemos descobrir falhas e vulnerabilidades em seus sistemas e, através delas, aplicar correções para deixar o ambiente mais seguro contra ataques de indivíduos maliciosos.
 
 * Estou em busca de oportunidades que possam me desafiar e fazer com que eu cresça em minha carreira, tanto no aspecto profissional, quanto pessoal.
 
